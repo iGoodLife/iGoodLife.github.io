@@ -1,0 +1,5 @@
+/* 强制美化图标使用 Font Awesome 字体 */
+.title-prefix-icon::before {
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 900 !important;
+}
