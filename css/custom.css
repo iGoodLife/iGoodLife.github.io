@@ -3,3 +3,38 @@
   font-family: "Font Awesome 5 Free" !important;
   font-weight: 900 !important;
 }
+
+#footer {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+#footer-wrap {
+  background-color: transparent !important;
+}
+
+/* 当没有设置 top_img 时，让顶部透明显示背景图 */
+#page-header {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+#page-header::before {
+  background-color: transparent !important;
+}
+
+
+/* 居中显示内容，当无侧边栏时(分类、归档、个人、友链等) */
+.hide-aside .content-wrap {
+  display: flex;
+  justify-content: center;
+}
+.hide-aside .content {
+  flex: 0 0 100%;
+  max-width: 960px;
+}
+
+
+
+
+
