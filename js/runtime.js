@@ -36,7 +36,7 @@ function createtime() {
         <div style="font-size:13px;font-weight:bold">
         本站已运行 ${d} 天 ${hFloor} 小时 ${mFloor} 分 ${sRound} 秒 
         <i id="heartbeat" class='fas fa-heartbeat fa-beat' style="color:red;"></i><br>
-        自你进入本站以来，宇宙中可能诞生了 ${bugs} 个新 Bug 🐞，相当于一位程序员 🧑‍💻加班 ${Math.floor(bugs / 13)} 次的产出量
+        自你进入本站以来，宇宙中可能诞生了 ${bugs} 个新 Bug 🐞，相当于一位程序员🧑‍💻加班 ${Math.floor(bugs / 13)} 次的产出量
         </div>
     `;
     } else {
@@ -46,7 +46,7 @@ function createtime() {
         <div style="font-size:13px;font-weight:bold">
         本站已运行 ${d} 天 ${hFloor} 小时 ${mFloor} 分 ${sRound} 秒 
         <i id="heartbeat" class='fas fa-heartbeat fa-beat' style="color:red;"></i><br>
-        自你进入本站以来，宇宙中可能诞生了 ${bugs} 个新 Bug 🐞，相当于一位程序员 🧑‍💻加班 ${Math.floor(bugs / 13)} 次的产出量
+        自你进入本站以来，宇宙中可能诞生了 ${bugs} 个新 Bug 🐞，相当于一位程序员🧑‍💻加班 ${Math.floor(bugs / 13)} 次的产出量
         </div>
     `;
     }
