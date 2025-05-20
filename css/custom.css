@@ -358,15 +358,15 @@ div#archive {
 
 
 
-/* 欢迎信息
+/* 欢迎信息 */
 #welcome-info {
   background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
   border-radius: 18px;
   padding: 8px;
 }
 [data-theme="dark"] #welcome-info {
-  background: #383737;
-} */
+  background: #212121;
+}
 
 
 
