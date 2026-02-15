@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Mac使用指南</title>
+      <title>Mac使用指南23</title>
       <link href="/2025/05/26/Mac%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
       <url>/2025/05/26/Mac%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
       
-        <content type="html"><![CDATA[<h1 id="Mac使用指南"><a href="#Mac使用指南" class="headerlink" title="Mac使用指南"></a>Mac使用指南</h1><h2 id="顶部导航栏"><a href="#顶部导航栏" class="headerlink" title="顶部导航栏"></a>顶部导航栏</h2><h3 id="Mac图标"><a href="#Mac图标" class="headerlink" title="Mac图标"></a>Mac图标</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525215746850.png" alt="image-20250525215739754"></p><h4 id="系统偏好设置-Windows控制面板"><a href="#系统偏好设置-Windows控制面板" class="headerlink" title="系统偏好设置 &#x3D;&gt; Windows控制面板"></a>系统偏好设置 &#x3D;&gt; Windows控制面板</h4><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525215854066.png" alt="image-20250525215854000"></p><h3 id="导航栏剩余部分"><a href="#导航栏剩余部分" class="headerlink" title="导航栏剩余部分"></a>导航栏剩余部分</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220052345.png" alt="image-20250525220052316"></p><p>显示当前正在使用软件的功能菜单。例如打开<code>Xmind</code>。</p><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220300444.png" alt="image-20250525220300408"></p><h3 id="状态栏-Windows右下角"><a href="#状态栏-Windows右下角" class="headerlink" title="状态栏 &#x3D;&gt; Windows右下角"></a>状态栏 &#x3D;&gt; Windows右下角</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220418684.png" alt="image-20250525220418651"></p><p>按住<code>command</code>＋鼠标左键，可以拖动图标改变图标位置，甚至删除图标。</p><h2 id="底部导航栏"><a href="#底部导航栏" class="headerlink" title="底部导航栏"></a>底部导航栏</h2><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220718557.png" alt="image-20250525220718508"></p><p>左边是<strong>程序</strong>，右边是<strong>文件</strong>。</p><p>程序又被小黑线分为两部分，左边是<strong>常驻应用程序</strong>；右边是<strong>最近使用</strong>过但未常驻，这部分程序在<em>启动台</em>中(左2)。</p><p>文件部分包含 <strong>文件、垃圾桶，最小化程序</strong>时(比如最小化网易云)也会暂放在文件部分。</p><h2 id="触控板"><a href="#触控板" class="headerlink" title="触控板"></a>触控板</h2><h3 id="光标与点按"><a href="#光标与点按" class="headerlink" title="光标与点按"></a>光标与点按</h3><p><img src="C:/Users/11320/AppData/Roaming/Typora/typora-user-images/image-20250525221621362.png" alt="image-20250525221621362"></p><h3 id="滚动缩放"><a href="#滚动缩放" class="headerlink" title="滚动缩放"></a>滚动缩放</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525221710732.png" alt="image-20250525221710732"></p><h3 id="更多手势"><a href="#更多手势" class="headerlink" title="更多手势"></a>更多手势</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525221731841.png" alt="image-20250525221731732"></p><p>四指向上是展示 <strong>所有应用和桌面的窗口</strong>；而向下是展示 <strong>当前应用的所有窗口</strong>。</p><ul><li><p>单击：<strong>按下</strong>触摸板才能单击，<br>修改方式：Apple -&gt; 系统偏好设置 -&gt; 触控板 -&gt; 光标与点按 -&gt; 勾选 轻点来点按。</p></li><li><p>三指拖移：框选、拖移文件<br>修改方式：Apple -&gt; 系统偏好设置 -&gt; 辅助功能 -&gt; 指针控制 -&gt; 触碰版选项 -&gt; 勾选 启用拖移。<br>Ps：貌似四指改三指也是在这里？</p></li></ul><h2 id="键盘"><a href="#键盘" class="headerlink" title="键盘"></a>键盘</h2><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525224609197.png" alt="image-20250525224608995"></p><p><code>command</code>代替了<code>ctrl</code>, <code>option</code>代替了<code>alt</code>。</p><p>而<code>control</code>一般用来和 <code>空格</code>使用 切换输入法，或者一些配合复杂的快捷键。</p><h3 id="复制"><a href="#复制" class="headerlink" title="复制"></a>复制</h3><p><code>command</code> + <code>d</code>，等价于 Windows中的 <strong>复制＋粘贴</strong> 同时完成。</p><h3 id="拷贝"><a href="#拷贝" class="headerlink" title="拷贝"></a>拷贝</h3><p><code>command</code> + <code>c</code>，等价于 Windows中的 <strong>复制</strong>。</p><h3 id="粘贴"><a href="#粘贴" class="headerlink" title="粘贴"></a>粘贴</h3><p><code>command</code> + <code>v</code>，等价于 Windows中的 <strong>粘贴</strong>。</p><h3 id="剪切"><a href="#剪切" class="headerlink" title="剪切"></a>剪切</h3><p>剪切<code>command</code> + <code>x</code>分为两部分，<strong>针对文本</strong> 和 <strong>针对文件</strong>。</p><ul><li>文本：同理Windows，剪切掉文字再粘贴即可。  </li><li>文件：要先 拷贝，再 <code>command</code>+<code>option</code>+<code>v</code>，从而实现Windows中的效果，原位置的文件转移到了新位置。</li></ul><h2 id="鼠标"><a href="#鼠标" class="headerlink" title="鼠标"></a>鼠标</h2><h3 id="上下滚动"><a href="#上下滚动" class="headerlink" title="上下滚动"></a>上下滚动</h3><p>修改方式：Apple -&gt; 系统偏好设置 -&gt; 鼠标 -&gt; <strong>取消勾选 滚动方向-自然</strong>；<strong>跟踪速度 拉满</strong>。</p><blockquote><p>取消勾选后，触摸板的方向貌似也反过来了？有一个叫<code>Mos</code>的插件，可以同时让两个变得舒服~</p></blockquote><h2 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h2><h3 id="神器1：文件预览"><a href="#神器1：文件预览" class="headerlink" title="神器1：文件预览"></a>神器1：文件预览</h3><p>单击选中文件，按<strong>空格</strong>即可预览。</p><h3 id="神器2：聚焦搜索"><a href="#神器2：聚焦搜索" class="headerlink" title="神器2：聚焦搜索"></a>神器2：聚焦搜索</h3><p>右上角<strong>放大镜</strong>图标，快捷键：<code>command</code>+<code>空格</code></p><p>不仅仅可以<strong>查找文件</strong>，还能<strong>翻译、计算机、汇率换算</strong>等等。</p><h3 id="截图-录制"><a href="#截图-录制" class="headerlink" title="截图&#x2F;录制"></a>截图&#x2F;录制</h3><p>全屏截图：<code>shift</code>+<code>command</code>+<code>3</code></p><p>框选截图：<code>shift</code>+<code>command</code>+<code>4</code></p><p><code>shift</code>+<code>command</code>+<code>5</code> 是截图&#x2F;录制功能栏，包括上述两种截图方式以及录屏。</p><h3 id="全屏分屏"><a href="#全屏分屏" class="headerlink" title="全屏分屏"></a>全屏分屏</h3><p>Mac左上角是Windows右上角的缩小、放大、关闭。</p><p>在全屏应用程序后，可以<strong>四指左右滑动</strong>来切换全屏程序。</p><p>如果想要分屏，先<strong>四指上推</strong>再<strong>三指</strong>将两个程序拖动到一起。</p><h3 id="关闭程序"><a href="#关闭程序" class="headerlink" title="关闭程序"></a>关闭程序</h3><p>点左上角的 ×，只是放到了<strong>后台运行</strong>。</p><p>彻底关闭的正确做法：1. <code>command</code>+<code>q</code> 2. 左上角菜单栏关闭 3. 程序坞右键关闭</p><h3 id="强制退出"><a href="#强制退出" class="headerlink" title="强制退出"></a>强制退出</h3><p>类似windows中的任务管理器来结束程序。</p><p>点击Apple图标 -&gt; 强制退出。</p><p>或者打开 活动监视器，点击要关闭软件，再点 ×。 </p><blockquote><p>活动监视器类似于 任务管理器，可以看内存、CPU占用等。</p></blockquote><h2 id="程序安装"><a href="#程序安装" class="headerlink" title="程序安装"></a>程序安装</h2><ul><li><p>AppStore 类似 iPad</p></li><li><p>打开软件官网，下载Mac版本，得到.DMG文件</p><p>流程：打开DMG文件，将左侧的应用程序 拖动到 右侧的Applications文件夹中，最后在最左侧<strong>位置</strong>处将应用程序临时挂载的安装磁盘<strong>推出</strong>。打开启动台即可看到新安装的应用程序。</p></li></ul><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250526000021262.png" alt="image-20250526001112886"></p><ul><li><p>突破限制的安装软件！<br>Apple -&gt; 系统偏好设置 -&gt; 安全与隐私 -&gt; 通用 -&gt; 单击左下角的锁按钮 -&gt; 任何来源。  </p><p>​    如果没显示<strong>任何来源</strong>，打开 启动器 -&gt; 其他 -&gt; 终端，输入以下命令和开机密码。(这里输入密码不显示</p></li></ul><pre><code class="language-shell">sudo spctl --master-disable## 文件管理访达 -&gt; 偏好设置 -&gt; 边栏，勾选需要常驻在左侧的内容。![image-20250526001109410](https://gitee.com/dhy994/typora_upload/raw/master/20250526001109457.png)</code></pre>]]></content>
+        <content type="html"><![CDATA[<h1 id="Mac使用指南"><a href="#Mac使用指南" class="headerlink" title="Mac使用指南"></a>Mac使用指南</h1><h2 id="顶部导航栏"><a href="#顶部导航栏" class="headerlink" title="顶部导航栏"></a>顶部导航栏</h2><h3 id="Mac图标"><a href="#Mac图标" class="headerlink" title="Mac图标"></a>Mac图标</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525215746850.png" alt="image-20250525215739754"></p><h4 id="系统偏好设置-Windows控制面板"><a href="#系统偏好设置-Windows控制面板" class="headerlink" title="系统偏好设置 &#x3D;&gt; Windows控制面板"></a>系统偏好设置 &#x3D;&gt; Windows控制面板</h4><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525215854066.png" alt="image-20250525215854000"></p><h3 id="导航栏剩余部分"><a href="#导航栏剩余部分" class="headerlink" title="导航栏剩余部分"></a>导航栏剩余部分</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220052345.png" alt="image-20250525220052316"></p><p>显示当前正在使用软件的功能菜单。例如打开<code>Xmind</code>。</p><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220300444.png" alt="image-20250525220300408"></p><h3 id="状态栏-Windows右下角"><a href="#状态栏-Windows右下角" class="headerlink" title="状态栏 &#x3D;&gt; Windows右下角"></a>状态栏 &#x3D;&gt; Windows右下角</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220418684.png" alt="image-20250525220418651"></p><p>按住<code>command</code>＋鼠标左键，可以拖动图标改变图标位置，甚至删除图标。</p><h2 id="底部导航栏"><a href="#底部导航栏" class="headerlink" title="底部导航栏"></a>底部导航栏</h2><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525220718557.png" alt="image-20250525220718508"></p><p>左边是<strong>程序</strong>，右边是<strong>文件</strong>。</p><p>程序又被小黑线分为两部分，左边是<strong>常驻应用程序</strong>；右边是<strong>最近使用</strong>过但未常驻，这部分程序在<em>启动台</em>中(左2)。</p><p>文件部分包含 <strong>文件、垃圾桶，最小化程序</strong>时(比如最小化网易云)也会暂放在文件部分。</p><h2 id="触控板"><a href="#触控板" class="headerlink" title="触控板"></a>触控板</h2><h3 id="光标与点按"><a href="#光标与点按" class="headerlink" title="光标与点按"></a>光标与点按</h3><p><img src="C:/Users/11320/AppData/Roaming/Typora/typora-user-images/image-20250525221621362.png" alt="image-20250525221621362"></p><h3 id="滚动缩放"><a href="#滚动缩放" class="headerlink" title="滚动缩放"></a>滚动缩放</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525221710732.png" alt="image-20250525221710732"></p><h3 id="更多手势"><a href="#更多手势" class="headerlink" title="更多手势"></a>更多手势</h3><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525221731841.png" alt="image-20250525221731732"></p><p>四指向上是展示 <strong>所有应用和桌面的窗口</strong>；而向下是展示 <strong>当前应用的所有窗口</strong>。</p><ul><li><p>单击：<strong>按下</strong>触摸板才能单击，<br>修改方式：Apple -&gt; 系统偏好设置 -&gt; 触控板 -&gt; 光标与点按 -&gt; 勾选 轻点来点按。</p></li><li><p>三指拖移：框选、拖移文件<br>修改方式：Apple -&gt; 系统偏好设置 -&gt; 辅助功能 -&gt; 指针控制 -&gt; 触碰版选项 -&gt; 勾选 启用拖移。<br>Ps：貌似四指改三指也是在这里？</p></li></ul><h2 id="键盘"><a href="#键盘" class="headerlink" title="键盘"></a>键盘</h2><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250525224609197.png" alt="image-20250525224608995"></p><p><code>command</code>代替了<code>ctrl</code>, <code>option</code>代替了<code>alt</code>。</p><p>而<code>control</code>一般用来和 <code>空格</code>使用 切换输入法，或者一些配合复杂的快捷键。</p><h3 id="复制"><a href="#复制" class="headerlink" title="复制"></a>复制</h3><p><code>command</code> + <code>d</code>，等价于 Windows中的 <strong>复制＋粘贴</strong> 同时完成。</p><h3 id="拷贝"><a href="#拷贝" class="headerlink" title="拷贝"></a>拷贝</h3><p><code>command</code> + <code>c</code>，等价于 Windows中的 <strong>复制</strong>。</p><h3 id="粘贴"><a href="#粘贴" class="headerlink" title="粘贴"></a>粘贴</h3><p><code>command</code> + <code>v</code>，等价于 Windows中的 <strong>粘贴</strong>。</p><h3 id="剪切"><a href="#剪切" class="headerlink" title="剪切"></a>剪切</h3><p>剪切<code>command</code> + <code>x</code>分为两部分，<strong>针对文本</strong> 和 <strong>针对文件</strong>。</p><ul><li>文本：同理Windows，剪切掉文字再粘贴即可。  </li><li>文件：要先 拷贝，再 <code>command</code>+<code>option</code>+<code>v</code>，从而实现Windows中的效果，原位置的文件转移到了新位置。</li></ul><h2 id="鼠标"><a href="#鼠标" class="headerlink" title="鼠标"></a>鼠标</h2><h3 id="上下滚动"><a href="#上下滚动" class="headerlink" title="上下滚动"></a>上下滚动</h3><p>修改方式：Apple -&gt; 系统偏好设置 -&gt; 鼠标 -&gt; <strong>取消勾选 滚动方向-自然</strong>；<strong>跟踪速度 拉满</strong>。</p><blockquote><p>取消勾选后，触摸板的方向貌似也反过来了？有一个叫<code>Mos</code>的插件，可以同时让两个变得舒服~</p></blockquote><h2 id="实用操作"><a href="#实用操作" class="headerlink" title="实用操作"></a>实用操作</h2><h3 id="神器1：文件预览"><a href="#神器1：文件预览" class="headerlink" title="神器1：文件预览"></a>神器1：文件预览</h3><p>单击选中文件，按<strong>空格</strong>即可预览。</p><h3 id="神器2：聚焦搜索"><a href="#神器2：聚焦搜索" class="headerlink" title="神器2：聚焦搜索"></a>神器2：聚焦搜索</h3><p>右上角<strong>放大镜</strong>图标，快捷键：<code>command</code>+<code>空格</code></p><p>不仅仅可以<strong>查找文件</strong>，还能<strong>翻译、计算机、汇率换算</strong>等等。</p><h3 id="截图-录制"><a href="#截图-录制" class="headerlink" title="截图&#x2F;录制"></a>截图&#x2F;录制</h3><p>全屏截图：<code>shift</code>+<code>command</code>+<code>3</code></p><p>框选截图：<code>shift</code>+<code>command</code>+<code>4</code></p><p><code>shift</code>+<code>command</code>+<code>5</code> 是截图&#x2F;录制功能栏，包括上述两种截图方式以及录屏。</p><h3 id="全屏分屏"><a href="#全屏分屏" class="headerlink" title="全屏分屏"></a>全屏分屏</h3><p>Mac左上角是Windows右上角的缩小、放大、关闭。</p><p>在全屏应用程序后，可以<strong>四指左右滑动</strong>来切换全屏程序。</p><p>如果想要分屏，先<strong>四指上推</strong>再<strong>三指</strong>将两个程序拖动到一起。</p><h3 id="关闭程序"><a href="#关闭程序" class="headerlink" title="关闭程序"></a>关闭程序</h3><p>点左上角的 ×，只是放到了<strong>后台运行</strong>。</p><p>彻底关闭的正确做法：1. <code>command</code>+<code>q</code> 2. 左上角菜单栏关闭 3. 程序坞右键关闭</p><h3 id="强制退出"><a href="#强制退出" class="headerlink" title="强制退出"></a>强制退出</h3><p>类似windows中的任务管理器来结束程序。</p><p>点击Apple图标 -&gt; 强制退出。</p><p>或者打开 活动监视器，点击要关闭软件，再点 ×。 </p><blockquote><p>活动监视器类似于 任务管理器，可以看内存、CPU占用等。</p></blockquote><h2 id="程序安装"><a href="#程序安装" class="headerlink" title="程序安装"></a>程序安装</h2><ul><li><p>AppStore 类似 iPad</p></li><li><p>打开软件官网，下载Mac版本，得到.DMG文件</p><p>流程：打开DMG文件，将左侧的应用程序 拖动到 右侧的Applications文件夹中，最后在最左侧<strong>位置</strong>处将应用程序临时挂载的安装磁盘<strong>推出</strong>。打开启动台即可看到新安装的应用程序。</p></li></ul><p><img src="https://gitee.com/dhy994/typora_upload/raw/master/20250526000021262.png" alt="image-20250526001112886"></p><ul><li><p>突破限制的安装软件！<br>Apple -&gt; 系统偏好设置 -&gt; 安全与隐私 -&gt; 通用 -&gt; 单击左下角的锁按钮 -&gt; 任何来源。  </p><p>​    如果没显示<strong>任何来源</strong>，打开 启动器 -&gt; 其他 -&gt; 终端，输入以下命令和开机密码。(这里输入密码不显示</p></li></ul><pre><code class="language-shell">sudo spctl --master-disable## 文件管理访达 -&gt; 偏好设置 -&gt; 边栏，勾选需要常驻在左侧的内容。![image-20250526001109410](https://gitee.com/dhy994/typora_upload/raw/master/20250526001109457.png)</code></pre>]]></content>
       
       
       <categories>
@@ -21,56 +21,6 @@
         <tags>
             
             <tag> Mac </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>C++的奇妙之处</title>
-      <link href="/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%203/"/>
-      <url>/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%203/</url>
-      
-        <content type="html"><![CDATA[<h2 id="欢迎来到我的博客-✨"><a href="#欢迎来到我的博客-✨" class="headerlink" title="欢迎来到我的博客 ✨"></a>欢迎来到我的博客 ✨</h2><p>C++C++C++C++C++<br>你好，这是我写的第一篇博客内容。</p><p>这是一段正文，用来记录我的学习、思考或生活。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> C++ </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> C++ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>如何学好Python</title>
-      <link href="/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%204/"/>
-      <url>/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%204/</url>
-      
-        <content type="html"><![CDATA[<h2 id="欢迎来到我的博客-✨"><a href="#欢迎来到我的博客-✨" class="headerlink" title="欢迎来到我的博客 ✨"></a>欢迎来到我的博客 ✨</h2><p>如何学好Python<br>你好，这是我写的第一篇博客内容。</p><p>这是一段正文，用来记录我的学习、思考或生活。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Python </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Python </tag>
             
         </tags>
       
@@ -104,11 +54,61 @@
     
     
     <entry>
+      <title>C++的奇妙之处</title>
+      <link href="/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%203/"/>
+      <url>/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%203/</url>
+      
+        <content type="html"><![CDATA[<h2 id="欢迎来到我的博客-✨"><a href="#欢迎来到我的博客-✨" class="headerlink" title="欢迎来到我的博客 ✨"></a>欢迎来到我的博客 ✨</h2><p>C++C++C++C++C++<br>你好，这是我写的第一篇博客内容。</p><p>这是一段正文，用来记录我的学习、思考或生活。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>人工智能</title>
       <link href="/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%205/"/>
       <url>/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%205/</url>
       
         <content type="html"><![CDATA[<h2 id="欢迎来到我的博客-✨"><a href="#欢迎来到我的博客-✨" class="headerlink" title="欢迎来到我的博客 ✨"></a>欢迎来到我的博客 ✨</h2><p>人工智能人工智能人工智能人工智能人工智能</p><p>这是一段正文，用来记录我的学习、思考或生活。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何学好Python</title>
+      <link href="/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%204/"/>
+      <url>/2025/05/17/2025-5-17-%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%20copy%204/</url>
+      
+        <content type="html"><![CDATA[<h2 id="欢迎来到我的博客-✨"><a href="#欢迎来到我的博客-✨" class="headerlink" title="欢迎来到我的博客 ✨"></a>欢迎来到我的博客 ✨</h2><p>如何学好Python<br>你好，这是我写的第一篇博客内容。</p><p>这是一段正文，用来记录我的学习、思考或生活。</p>]]></content>
       
       
       <categories>
@@ -233,6 +233,37 @@
         <tags>
             
             <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客发布相关命令</title>
+      <link href="/2025/05/15/%E5%8D%9A%E5%AE%A2%E4%BF%AE%E6%94%B9%E5%8F%91%E5%B8%83%E5%91%BD%E4%BB%A4/"/>
+      <url>/2025/05/15/%E5%8D%9A%E5%AE%A2%E4%BF%AE%E6%94%B9%E5%8F%91%E5%B8%83%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="博客修改命令"><a href="#博客修改命令" class="headerlink" title="博客修改命令"></a>博客修改命令</h1><blockquote><p>均在 VS Code 终端运行，共 2 步：1. 本地测试； 2. 部署发布。</p><p>由于在package.json中写了 2 个一键脚本，可以只执行这两个脚本。</p></blockquote><h2 id="本地测试"><a href="#本地测试" class="headerlink" title="本地测试"></a>本地测试</h2><p>平时写文章、改代码预览用 server，遇到缓存&#x2F;生成异常时再用 dev。</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm run server</span><br></pre></td></tr></table></figure><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm run dev</span><br></pre></td></tr></table></figure><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 等价于上面的一条指令：npm run dev</span><br><span class="line">npm run clean</span><br><span class="line">npm run build</span><br><span class="line">npm run server</span><br><span class="line"><span class="function"></span></span><br><span class="line"><span class="function">http://<span class="title">localhost</span>:4000/</span></span><br></pre></td></tr></table></figure><h2 id="部署发布"><a href="#部署发布" class="headerlink" title="部署发布"></a>部署发布</h2><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm run publish</span><br></pre></td></tr></table></figure><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># 等价于上面的一条指令</span><br><span class="line">npm run clean # <span class="number">1</span>.清理旧生成文件/缓存</span><br><span class="line">npm run build # <span class="number">2</span>.生成静态网页</span><br><span class="line">npm run deploy # <span class="number">3</span>.部署发布线上：GitHub</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客搭建 </tag>
+            
+            <tag> vercel </tag>
+            
+            <tag> butterfly </tag>
             
         </tags>
       
