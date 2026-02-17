@@ -41,7 +41,7 @@ function createtime() {
     `;
     } else {
     content = `
-        <img class="boardsign" src="https://picbed.karon.top/svg/badge_night.svg" 
+        <img class="boardsign" src="/imgs/badge_night.svg" 
             alt="☕Kor学堂 注意休息哦" title="下班了就该开开心心地玩耍~"><br>
         <div style="font-size:13px;font-weight:bold">
         本站已运行 ${d} 天 ${hFloor} 小时 ${mFloor} 分 ${sRound} 秒 
