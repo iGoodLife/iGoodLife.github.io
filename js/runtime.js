@@ -31,7 +31,7 @@ function createtime() {
 
     if (hFloor < 18 && hFloor >= 9) {
     content = `
-        <img class="boardsign" src="https://picbed.karon.top/svg/badge_day.svg" 
+        <img class="boardsign" src="/imgs/badge_day.svg" 
             alt="☕Kor学堂 快乐摸鱼" title="什么时候能够实现财富自由呀~"><br>
         <div style="font-size:13px;font-weight:bold">
         本站已运行 ${d} 天 ${hFloor} 小时 ${mFloor} 分 ${sRound} 秒 
