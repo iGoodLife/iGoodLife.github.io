@@ -357,6 +357,40 @@ div#archive {
 }
 
 
+/* 标题前风车图标：垂直居中 */
+.container h1::before,
+.container h2::before,
+.container h3::before,
+.container h4::before,
+.container h5::before,
+.container h6::before {
+  content: "\f863" !important;
+  font-family: "Font Awesome 6 Free" !important;
+  font-weight: 900 !important;
+
+  position: absolute;
+  top: 50% !important;
+  transform: translateY(-50%) rotate(0deg); /* 关键：居中 */
+  line-height: 1 !important;
+}
+
+/* 旋转动画时也要保留 translateY(-50%) */
+@keyframes windmillSpin {
+  from { transform: translateY(-50%) rotate(0deg); }
+  to   { transform: translateY(-50%) rotate(360deg); }
+}
+
+.container h1::before,
+.container h2::before,
+.container h3::before,
+.container h4::before,
+.container h5::before,
+.container h6::before {
+  animation: windmillSpin 1.6s linear infinite;
+}
+
+
+
 
 /* 欢迎信息
 #welcome-info {
